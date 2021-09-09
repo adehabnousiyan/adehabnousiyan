@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adeh
 - 👀 I’m interested in HTML, CSS3, JAVASCRIPT, C#, PYTHON, SQL Server
-- 🌱 I’m currently learning FULL STACK WEBDEVELOPMENT
+- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram: @adeh_abnousiyan
 
